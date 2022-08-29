@@ -1,0 +1,6 @@
+Related SQL datatypes:
+- NULL: no value
+- TEXT: alphanumeric characters which we want to represent as plain text
+- INTEGER: whole number datatype
+- REAL: plain decimal number
+- BLOB: binary data
